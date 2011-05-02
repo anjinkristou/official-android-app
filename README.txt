@@ -3,7 +3,7 @@
 This is the code of the Plancake Android app as it is on the Android Market:
 https://market.android.com/details?id=com.plancake.android.app
 
-In order to use this source ode, you need to get an API key here:
+In order to use this source code, you need to get an API key here:
 http://www.plancake.com/api-documentation
 
 Once you have an API Key, you need to update the
