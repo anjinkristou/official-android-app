@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="on_for_weekdays">on</string>
+    <string name="sunday_abbreviation">sun</string>
+    <string name="monday_abbreviation">mon</string>
+    <string name="tuesday_abbreviation">tue</string>
+    <string name="wednesday_abbreviation">wed</string>
+    <string name="thursday_abbreviation">thu</string>
+    <string name="friday_abbreviation">fri</string>
+    <string name="saturday_abbreviation">sat</string>
+
+    <string name="need_plancake_account">This is the Android version of Plancake: the free online personal organizer. \n
+    You need a Plancake account in order to use this application. If you haven\'t got one, please go to http://www.plancake.com</string>
+    <string name="app_name">Plancake for Android</string>
+
+    <string name="full_syncing_lists_and_tasks">Plancake needs to download all your tasks and lists to your mobile, this will only happen once. \n
+    It may take several minutes.</string>
+    <string name="delta_syncing_lists_and_tasks">Syncing tasks between your device and Plancake online...</string>
+
+    <string name="enter_plancake_email_address">Enter your Plancake email address:</string>
+    <string name="enter_plancake_password">Enter your Plancake password:</string>
+    <string name="submit_authentication_details">Log in</string>
+
+    <string name="internet_connection_is_needed">An Internet connection is needed in order to perform this operation.</string>
+    <string name="wrong_authentication">Wrong authentication. Please double check your email address and password are correct
+    (maybe you changed your password recently?)</string>
+    <string name="error_during_syncronization">An error occurred while synchronizing</string>
+
+    <string name="lists_view_title">Lists</string>
+    <string name="tasks_in_list_view_title">Tasks in list</string>
+    <string name="no_due_date_for_todo_list">Your Todo list does NOT show tasks with due date. These are shown in your Calendar as usual</string>
+
+    <string name="view_note_button">view note</string>
+
+    <string name="tags_view_title">Tags</string>
+    <string name="tasks_in_tag_view_title">Tasks in tag</string>
+
+    <string name="tasks_in_calendar_title">Calendar</string>
+    <string name="starred_tasks_title">Starred</string>
+
+    <string name="about_title">About</string>
+    <string name="about_body">Plancake for Android \n\n All right reserved. \n\n\n This is a beta version, thus it may contain bugs. \n\n\n
+    Some features may be available only to Supporter Accounts. \n\n\n Copyright \u00A9 2010-2011 Danyuki Software Limited (Company No. 07554549)
+    \n\n\n For further info, please visit: \n http://www.plancake.com</string>
+
+    <string name="edit_inbox_title">Edit Inbox</string>
+    <string name="enter_inbox_task_description">Enter task description:</string>
+    <string name="enter_inbox_task_note">Enter task note:</string>
+    <string name="submit_inbox_task">Submit</string>
+
+    <string name="menu_item_add_to_inbox">Add to Inbox</string>
+    <string name="menu_item_filter_by_list">Filter by list</string>
+    <string name="menu_item_filter_by_tag">Filter by tag</string>
+    <string name="menu_item_calendar">Calendar</string>
+    <string name="menu_item_sync">Sync</string>
+    <string name="menu_item_reset_data">Reset local data</string>
+    <string name="menu_item_about">About</string>
+    <string name="menu_item_starred">Starred</string>
+    <string name="menu_item_search">Search</string>
+
+    <string name="context_menu_title">Select an action</string>
+    <string name="view_note">view note</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="mark_as_done">mark as done</string>
+    <string name="mark_as_incomplete">mark as incomplete</string>
+    <string name="with_note">with note</string>
+
+    <string name="last_sync_too_old_error">The last synchronization was too long ago
+    to be able to perform a partial sync. You need to delete all the application data and relaunch the application to re-sync in full.</string>
+    <string name="no_more_sync_left">You have reached your daily synchronization limit.</string>
+    <string name="delta_sync_successful_and_left_syncs">Successful synchronization. \n Number of syncs left for today: </string>
+    <string name="become_supporter_for_more_syncs">Please consider becoming a Supporter to have more synchronizations available.</string>
+
+    <string name="task_edit_success">Task added/updated</string>
+    <string name="ok">OK</string>
+    <string name="loading_please_wait">Loading. Please wait...</string>
+
+    <string name="reset_data_title">Reset data</string>
+    <string name="reset_data_body">Your data has been reset.</string>
+    <string name="go_to_user_authentication">Connect this app back to your Plancake account</string>
+    <string name="before_resetting_data_warning">By going ahead, you will lose all the application data on your mobile phone. Are you sure you want to do this?</string>
+</resources>

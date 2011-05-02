@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plancake_api_key">1234567890123456890</string>             
+    <string name="plancake_api_secret">1234567890</string>
+    <string name="plancake_api_endpoint_url">http://api.plancake.com/api.php</string>
+    
+    <string name="max_days_gap_between_syncs">60</string>
+    <string name="max_number_of_syncs_per_day_free_account">2</string>
+    <string name="max_number_of_syncs_per_day_supporter_account">30</string>          
+</resources>

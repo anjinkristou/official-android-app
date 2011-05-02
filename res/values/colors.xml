@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_background_color">#AA666666</color> 
+    <color name="list_header_background_color">#AAFF6633</color>
+                 
+    <color name="task_header_background_color">#AAFF6633</color>
+    <color name="task_overdue_color">#AAFFA198</color>
+    <color name="task_due_today_color">#AA63A303</color>
+    <color name="task_due_tomorrow_color">#AA8BB4F5</color>
+    <color name="task_standard_color">#AA666666</color>
+    <color name="task_modified_locally_color">#AAD1C411</color>    
+
+    <color name="alert">#AAFF0000</color>
+    <color name="title_background_color">#3A5DF3</color>
+</resources>

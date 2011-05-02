@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.plancake.android.app"
+      android:versionCode="8"
+      android:versionName="1.0">
+    <application android:icon="@drawable/icon2" android:label="@string/app_name">
+
+        <!-- orientation|keyboardHidden is to keep a change in the screen orientation from breaking synchronization -->        
+        <activity android:name="com.plancake.android.app.activity.ListsActivity"
+        		  android:configChanges="orientation|keyboardHidden"        
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />            
+            </intent-filter>
+        </activity>    
+    
+        <!-- orientation|keyboardHidden is to keep a change in the screen orientation from breaking synchronization -->    
+        <activity android:name="com.plancake.android.app.activity.UserAuthenticationActivity"
+        		  android:configChanges="orientation|keyboardHidden"
+                  android:label="@string/app_name">
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        
+        <!-- orientation|keyboardHidden is to keep a change in the screen orientation from breaking synchronization -->            
+        <activity android:name="com.plancake.android.app.activity.TagsActivity"
+        		  android:configChanges="orientation|keyboardHidden"        
+                  android:label="@string/app_name">
+            <intent-filter>
+            </intent-filter>
+        </activity>        
+        
+        <!-- orientation|keyboardHidden is to keep a change in the screen orientation from breaking synchronization -->            
+        <activity android:name="com.plancake.android.app.activity.TasksActivity"
+        		  android:configChanges="orientation|keyboardHidden"        
+                  android:label="@string/app_name">
+            <intent-filter>
+            </intent-filter>
+        </activity>
+
+        <!-- orientation|keyboardHidden is to keep a change in the screen orientation from breaking synchronization -->            
+        <activity android:name="com.plancake.android.app.activity.AboutActivity"
+        		  android:configChanges="orientation|keyboardHidden"        
+                  android:label="@string/app_name">
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        
+        <!-- orientation|keyboardHidden is to keep a change in the screen orientation from breaking synchronization -->            
+        <activity android:name="com.plancake.android.app.activity.EditInboxActivity"
+        		  android:configChanges="orientation|keyboardHidden"        
+                  android:label="@string/app_name">
+            <intent-filter>
+            </intent-filter>
+        </activity>
+
+        <!-- orientation|keyboardHidden is to keep a change in the screen orientation from breaking synchronization -->            
+        <activity android:name="com.plancake.android.app.activity.ResetDataActivity"
+        		  android:configChanges="orientation|keyboardHidden"        
+                  android:label="@string/app_name">
+            <intent-filter>
+            </intent-filter>
+        </activity>
+                        
+    </application>
+    <uses-sdk android:minSdkVersion="3" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />	
+</manifest> 

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="on_for_weekdays">di</string>
+    <string name="sunday_abbreviation">dom</string>
+    <string name="monday_abbreviation">lun</string>
+    <string name="tuesday_abbreviation">mar</string>
+    <string name="wednesday_abbreviation">mer</string>
+    <string name="thursday_abbreviation">gio</string>
+    <string name="friday_abbreviation">ven</string>
+    <string name="saturday_abbreviation">sab</string>
+
+    <string name="need_plancake_account">Questa è la versione Android di Plancake: l'organizzatore online personale gratuito. \n
+    Hai bisogno di un account Plancake per usare questa applicazione. Se non ne hai ancora uno, per favore vai su http://www.plancake.com</string>
+    <string name="app_name">Plancake per Android</string>
+
+    <string name="full_syncing_lists_and_tasks">Plancake scaricherà tutte le attività e le liste sul tuo cellulare solo per questa prima volta. \n
+    Questa operazione potrebbe richiedere diversi minuti.</string>
+    <string name="delta_syncing_lists_and_tasks">Sincronizzazione delle attività tra il tuo dispositivo e Plancake online...</string>
+
+    <string name="enter_plancake_email_address">Inserisci il tuo indirizzo email di Plancake:</string>
+    <string name="enter_plancake_password">Inserisci la tua password di Plancake:</string>
+    <string name="submit_authentication_details">Accedi</string>
+
+    <string name="internet_connection_is_needed">E' necessaria una connessione a Internet per compiere questa operazione.</string>
+    <string name="wrong_authentication">Autenticazione fallita. Per favore controlla che il tuo indirizzo email e la tua password siano corretti(forse hai cambiato recentemente la tua password?)</string>
+    <string name="error_during_syncronization">E' stato riscontrato un errore nella sincronizzazione</string>
+
+    <string name="lists_view_title">Liste</string>
+    <string name="tasks_in_list_view_title">Attività nella lista</string>
+    <string name="no_due_date_for_todo_list">La tua lista 'Cose da fare' non mostra le attività con data. Esse sono sul tuo Calendario, come per ogni lista.</string>
+
+    <string name="view_note_button">mostra nota</string>
+
+    <string name="tags_view_title">Etichette</string>
+    <string name="tasks_in_tag_view_title">Attività con etichetta</string>
+
+    <string name="tasks_in_calendar_title">Calendario</string>
+    <string name="starred_tasks_title">Importanti</string>
+
+    <string name="about_title">Informazioni</string>
+    <string name="about_body">Plancake per Android \n\n Tutti i diritti sono riservati. \n\n\n Questa è una versione beta, potrebbe quindi contenere errori. \n\n\n
+    Alcune funzioni saranno disponibili solo agli utenti Sostenitori. \n\n\n Copyright \u00A9 2010-2011 Danyuki Software Limited (Company No. 07554549)
+    \n\n\n Per maggiori informazioni, visita: \n http://www.plancake.com</string>
+
+    <string name="edit_inbox_title">Modifica Inbox</string>
+    <string name="enter_inbox_task_description">Inserisci la descrizione dell'attività:</string>
+    <string name="enter_inbox_task_note">Inserisci la nota dell'attività:</string>
+    <string name="submit_inbox_task">Invia</string>
+
+    <string name="menu_item_add_to_inbox">Aggiungi Inbox</string>
+    <string name="menu_item_filter_by_list">Filtra per liste</string>
+    <string name="menu_item_filter_by_tag">Filtra per etichette</string>
+    <string name="menu_item_calendar">Calendario</string>
+    <string name="menu_item_sync">Sincronizzazione</string>
+    <string name="menu_item_reset_data">Resetta dati locali</string>
+    <string name="menu_item_about">Informazioni</string>
+    <string name="menu_item_starred">Importanti</string>
+    <string name="menu_item_search">Cerca</string>
+
+    <string name="context_menu_title">Seleziona un'azione</string>
+    <string name="view_note">mostra nota</string>
+    <string name="edit">modifica</string>
+    <string name="delete">cancella</string>
+    <string name="mark_as_done">marca come fatta</string>
+    <string name="mark_as_incomplete">marca come da fare</string>
+    <string name="with_note">con nota</string>
+
+    <string name="last_sync_too_old_error">L'ultima sincronizzazione è molto vecchia. Quindi, non è possibile compiere una sincronizzazione parziale. Devi cancellare tutti i dati dell'applicazione e riavviarla.</string>
+    <string name="no_more_sync_left">Hai raggiunto il limite di sincronizzazioni disponibili per oggi.</string>
+    <string name="delta_sync_successful_and_left_syncs">Sincronizzazione avvenuta con successo. \n Numero di sincronizzazioni ancora disponibili per oggi: </string>
+    <string name="become_supporter_for_more_syncs">Per favore, considera di diventare Sostenitore per avere più sincronizzazioni a disposizione.</string>
+
+    <string name="task_edit_success">Attività aggiunta/aggiornata</string>
+    <string name="ok">OK</string>
+    <string name="loading_please_wait">Caricamento. Attendi...</string>
+
+    <string name="reset_data_title">Resetta dati</string>
+    <string name="reset_data_body">I tuoi dati sono stati resettati.</string>
+    <string name="go_to_user_authentication">Collega questa applicazione al tuo account Plancake</string>
+    <string name="before_resetting_data_warning">Andando avanti, perderai tutti i dati dell'applicazione sul tuo cellulare. Sei sicuro di voler procedere?</string>
+</resources>

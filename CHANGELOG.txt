@@ -1,0 +1,34 @@
+v. 1.0 (20 March 2011)
+_ tags are now sorted
+_ fixed the bug of marking a task as done twice by mistake
+_ tasks show also due times
+_ launched a new screen for Starred tasks (main menu -> more -> starred)
+_ a change in the orientation of the phone doesn't break synchronization anymore
+_ the user can't go back to the login screen after logging in successfully
+_ cosmetic UI improvements
+_ the English version has been proofread
+_ Italian version
+_ some bug fixes
+
+
+v. 0.9.5
+_ created new menu option to reset data (session + db)
+
+v. 0.9.4
+_ updated the Plancake API client to version 2
+_ improved the sort criteria for lists
+
+v. 0.9.3
+_ fixed a bug: in certain situations, the system wasn't able to select the Inbox correctly, due to a bug in the sorting of the lists that we are going to fix
+
+v. 0.9.2
+_ tried to fix a bug (Finalizing a Cursor that has not been deactivated or closed. database = /data/data/com.plancake.android.app/databases/plancakeDatabase.db, table = list, query = SELECT id, name, sort_order, is_header FROM list ORDER BY sort_order)
+_ improved the icons
+
+
+v. 0.9.1
+_ lifted the max syncs/day to Supporters
+
+
+v. 0.9.0
+_ first public release

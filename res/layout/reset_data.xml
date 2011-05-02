@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<LinearLayout
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:scrollbars="vertical" 
+	    >
+	
+		  <TextView
+		    android:id="@+id/resetDataTitle"
+		    android:layout_width="fill_parent"    
+		    android:layout_height="wrap_content"
+		    android:padding="10dp"
+		    android:text="@string/reset_data_title"
+		    android:textSize="20sp"
+		    android:textStyle="bold"
+		    android:background="@color/title_background_color"     
+		  />	
+		
+		  <TextView
+		    android:layout_width="fill_parent"    
+		    android:layout_height="wrap_content"
+		    android:padding="10dp"
+		    android:text="@string/reset_data_body"
+		    android:textSize="15sp" 
+		  />	
+		  
+		<Button
+		  android:id="@+id/goToUserAuthentication"
+		  android:layout_width="fill_parent"
+		  android:layout_height="wrap_content"
+		  android:text="@string/go_to_user_authentication" 
+		    android:textSize="15sp"     
+		  />		  
+	
+	</LinearLayout>
+</ScrollView>
