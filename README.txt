@@ -20,5 +20,14 @@ src/com/plancake/android/app
 The Java API Kit (that has got a repository itself at https://github.com/plancake/official-api-kit-java) can be found in:
 src/com/plancake/api/client
 
+----------------------------------------------------------
+
+Please contact us if you need any commercial support with the installation of any component or if you would like any customization:
+http://www.plancake.com/contact
+
+Please consider contributing any bug fix fixes or improvements:
+http://www.plancake.com/contact
+
 Plancake homepage: http://www.plancake.com
 Support at: http://www.plancake.com/forums/forum/13/support-for-developers/
+
